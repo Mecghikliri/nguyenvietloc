@@ -1,5 +1,12 @@
 repository: kho lưu trữ mã nguồn.( có 2 kho off + on>
-code trong máy: starging area  local reposiryty remote re
+code trong máy: starging area   local reposiryty  remote re
 - git init : mo local reposityty
 - git add<ten file> : đưa các thay đổi vao starging areadt
-- git add
+- git add .
+- git commit : đưa các thay đô từ starging area vao local reposityty
+- git commit -m" ghi chu"
+-git remote : ket noi local vs
+- git push origin master: day cac thay doi tu local len remote
+
+tu lan 2 : chi can cac cau lenh git add., git commit -m ""
+git push origin master
